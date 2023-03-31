@@ -370,10 +370,12 @@ footer{
         display: none;
     }
     .sg-mobile{
+        display: block;
         padding-top: 70px;
         padding-bottom: 70px;
     }
     .signup-mobile{
+        display: block;
         background-color: #3882F6;
         color: white;
         text-align: center;
