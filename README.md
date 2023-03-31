@@ -2,11 +2,11 @@
 
 Task was to Replicate a web page(Photo was given).
 
-![Screenshot (296)](https://user-images.githubusercontent.com/107789881/228679282-e40a8a54-c9d5-4b36-9650-e185af6327b1.png)
+![Screenshot (307)](https://user-images.githubusercontent.com/107789881/229213310-13a7783e-6154-475c-a4b6-d879a99fa953.png)
 
-![Screenshot (297)](https://user-images.githubusercontent.com/107789881/228679346-b55f6cc0-cece-427c-8d21-0ec555113dd3.png)
+![Screenshot (308)](https://user-images.githubusercontent.com/107789881/229213350-e85c079c-15e7-4d31-9ac2-a0628d0664d5.png)
 
-![Screenshot (298)](https://user-images.githubusercontent.com/107789881/228679399-b6854121-ff3d-4ad2-9c8d-a75f034bc986.png)
+![Screenshot (309)](https://user-images.githubusercontent.com/107789881/229213376-29e8440e-7c34-443d-bfde-f83a8193cdda.png)
 
 Tablet Responsive.
 
