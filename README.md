@@ -10,12 +10,18 @@ Task was to Replicate a web page(Photo was given).
 
 Tablet Responsive.
 
-![Screenshot (302)](https://user-images.githubusercontent.com/107789881/229208009-22727a8d-35e2-447f-bd25-a09f2590ff67.png)
+![Screenshot (313)](https://user-images.githubusercontent.com/107789881/230071436-368cbd68-a48f-44ff-ac58-d89119f2a90d.png)
 
-![Screenshot (303)](https://user-images.githubusercontent.com/107789881/229208038-d7218deb-885a-4ee9-b47d-12461b5fb66c.png)
+![Screenshot (314)](https://user-images.githubusercontent.com/107789881/230071468-720f5d40-56ff-4836-a5bd-279694942b33.png)
+
+![Screenshot (315)](https://user-images.githubusercontent.com/107789881/230071487-ca428fb7-b632-4496-92f4-a44daa64be02.png)
 
 Mobile Responsive.
 
-![Screenshot (304)](https://user-images.githubusercontent.com/107789881/229208049-0500e8a9-8dde-484c-ac78-9afb71044622.png)
+![Screenshot (316)](https://user-images.githubusercontent.com/107789881/230071573-89240dda-3d14-4aab-9041-32517a52b847.png)
 
-![Screenshot (306)](https://user-images.githubusercontent.com/107789881/229209034-2b9aae3f-daec-4951-be28-dc6df8511a4c.png)
+![Screenshot (317)](https://user-images.githubusercontent.com/107789881/230071622-3a332ccb-19f9-471f-b052-36789feebaed.png)
+
+![Screenshot (318)](https://user-images.githubusercontent.com/107789881/230071647-df7783e8-692e-4073-8005-cd132b6b32ae.png)
+
+![Screenshot (319)](https://user-images.githubusercontent.com/107789881/230071698-13fd8ea4-fc13-4db8-873d-d26e9f0f8162.png)
